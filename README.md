@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Khittoktun Portal
 
 This is a company portfolio and private shareholder portal built with a static HTML/CSS/JavaScript frontend, ASP.NET Core .NET APIs, ASP.NET Core Identity, Entity Framework Core, and PostgreSQL.
@@ -69,3 +70,6 @@ Existing users are updated. New users are created as shareholders when a tempora
 6. Review the financial data model and CSV validation rules before importing production data.
 
 The active frontend is static HTML/CSS/JavaScript. The application does not map Razor Pages.
+=======
+# KTKhitTaukTun
+>>>>>>> 6f019b73c5af62e882e10f1766697b100dcc77f1
